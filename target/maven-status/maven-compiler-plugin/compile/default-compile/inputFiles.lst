@@ -1,0 +1,7 @@
+/workspace/ms-egg-production/src/main/java/pe/edu/vallegrande/eggs/EggsApplication.java
+/workspace/ms-egg-production/src/main/java/pe/edu/vallegrande/eggs/config/CustomAuthenticationToken.java
+/workspace/ms-egg-production/src/main/java/pe/edu/vallegrande/eggs/config/SecurityConfig.java
+/workspace/ms-egg-production/src/main/java/pe/edu/vallegrande/eggs/controller/EggProductionController.java
+/workspace/ms-egg-production/src/main/java/pe/edu/vallegrande/eggs/model/EggProductionModel.java
+/workspace/ms-egg-production/src/main/java/pe/edu/vallegrande/eggs/repository/EggProductionRepository.java
+/workspace/ms-egg-production/src/main/java/pe/edu/vallegrande/eggs/service/EggProductionService.java
