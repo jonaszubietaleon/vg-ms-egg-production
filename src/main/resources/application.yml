@@ -13,4 +13,4 @@ spring:
       resourceserver:
         jwt:
           issuer-uri: https://securetoken.google.com/prs2-83d22
-          jwk-set-uri: https://www.googleapis.com/service_accounts/v1/jwk/securetoken@system.gserviceaccount.
+          jwk-set-uri: https://www.googleapis.com/service_accounts/v1/jwk/securetoken@system.gserviceaccount.com
